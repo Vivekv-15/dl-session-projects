@@ -61,4 +61,4 @@ with st.form("login_form"):
         st.success(f"welcome,{username}!")
 
 st.image("https://via.placeholder.com/300", caption = "simple image", use_column_width=True)
-st.vidio("https://youtu.be/aSugSGCC12I?si=Pthjn5j9KdFLnF6I")
+st.video("https://youtu.be/aSugSGCC12I?si=Pthjn5j9KdFLnF6I")
